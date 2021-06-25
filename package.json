@@ -1,0 +1,26 @@
+{
+  "name": "app21",
+  "version": "1.0.0",
+  "description": "1v1 # cs-todo-2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lawrence970/app21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lawrence970/app21/issues"
+  },
+  "homepage": "https://github.com/Lawrence970/app21#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14",
+    "node": "^16.3.0"
+  }
+}
